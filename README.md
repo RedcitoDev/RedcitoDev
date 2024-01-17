@@ -17,7 +17,7 @@
 
 ## Proyectos Destacados
 - [Proyecto 1: Yucatan Airport Transportations](yucatanairportransportations.com)
-- [Proximamente MyToday en ReactJS: ](Proximamente)
+- [Proximamente ToDo en ReactJS: ](Proximamente)
 - (Proximamente mas proyectos)
 
 ## Redes Sociales
