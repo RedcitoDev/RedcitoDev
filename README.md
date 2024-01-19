@@ -16,7 +16,7 @@
 - 🔧 Resolución creativa de problemas
 
 ## Proyectos Destacados
-- [Proyecto 1: Yucatan Airport Transportations](yucatanairportransportations.com)
+- [Proyecto 1: Juego del Numero Secreto](https://redcitodev.github.io/juegoSecreto-Curso-Oracle-One/)
 - [Proximamente ToDo en ReactJS: ](Proximamente)
 - (Proximamente mas proyectos)
 
