@@ -17,6 +17,7 @@
 
 ## Proyectos Destacados
 - [Proyecto 1: Juego del Numero Secreto](https://redcitodev.github.io/juegoSecreto-Curso-Oracle-One/)
+- [Proyecto 2: Compresor Masivo GLB](https://github.com/RedcitoDev/compress-glb)
 - [Proximamente ToDo en ReactJS: ](Proximamente)
 - (Proximamente mas proyectos)
 
